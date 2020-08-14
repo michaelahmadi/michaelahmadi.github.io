@@ -1,7 +1,12 @@
-#container {
+container {
 	background-color: #F3D250;
 }
 
+#header {
+	text-align: center;
+}
+
 #nav {
+	
 	display: inline;
 }
