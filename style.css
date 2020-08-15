@@ -54,3 +54,12 @@ body {
 	padding: 20px;
 	border: 1px solid black;
 }
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, a:active {
+  color: white;
+}
